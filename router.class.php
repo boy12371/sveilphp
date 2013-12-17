@@ -2,7 +2,7 @@
 /**
  * The router class file of the External Transaction Interface
  *
- * @copyright   Copyright 2009-2013 xyagree.com
+ * @copyright   Copyright 2009-2013 sveil.com
  * @license     LGPL (http://www.gnu.org/licenses/lgpl.html)
  * @author      Richard
  * @package     com.frame.router
