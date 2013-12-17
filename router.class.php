@@ -155,7 +155,6 @@ class Router
         $this->setTimezone();
 
         $this->loadClass('dao', true);
-        //$this->loadClass('sql', true);
     }
 
     /**
