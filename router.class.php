@@ -163,11 +163,11 @@ class Router
      *
      * <code>
      * <?php
-     * $demo = router::createApp('demo');
+     * $admin = router::createApp('admin');
      * ?>
      * or specify the root path of the app. Thus the app and framework can be seperated.
      * <?php
-     * $demo = router::createApp('demo', '/home/app/demo');
+     * $admin = router::createApp('admin', '/home/app/admin');
      * ?>
      * </code>
      * @param string $appName   the name of the app
