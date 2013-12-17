@@ -7,7 +7,7 @@
  * @author      Richard
  * @package     com.frame.router
  * @version     $Id: router.class.php 888 2013-05-20 11:43:00
- * @link        http://www.xyagree.com
+ * @link        http://www.sveil.com
  */
 
 /**
